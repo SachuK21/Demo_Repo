@@ -6,7 +6,12 @@ emb c
 new one
 
 sefond
+<<<<<<< HEAD
 main added
+=======
+last one added
+
+>>>>>>> Sachu_Trail
 
 
 
